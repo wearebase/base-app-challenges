@@ -19,6 +19,8 @@ What we’re looking for:
 - Well structured, commented code
 - Considerations for external factors (eg devices, network)
 
+Note: if you've solved some of these, don't publish them as a fork of this repo, or it will spoil the fun for everyone else :-). You can create a secret gist with a free Github account.
+
 Have fun!
 
 - The [@BaseEngineers](https://twitter.com/BaseEngineers) / engineers@wearebase.com
