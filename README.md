@@ -1,8 +1,8 @@
 # App Challenges
 
-This simple test should take no more than four hours. 
+This simple test should take roughly four hours. 
 
-We’d like you to create a small Android app using the simple JSON API from opendevicelab.com. 
+We’d like you to create a small Android app using the [simple JSON API](http://opendevicelab.com/api-documentation.php) from opendevicelab.com. 
 
 The first view should be a map with place markers for the ODLs. The map should have a location search, as well as using the device’s geolocation. 
 
@@ -15,7 +15,7 @@ The API data should be cached and the app should have an option to manually clea
 Supply the source code and build the app into an apk.
 
 What we’re looking for:
-- A solid implementation of Jellybean UX
+- A solid implementation of native UX
 - Well structured, commented code
 - Considerations for external factors (eg devices, network)
 
