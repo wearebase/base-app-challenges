@@ -2,7 +2,7 @@
 
 This simple test should take roughly four hours. 
 
-We’d like you to create a small Android app using the [simple JSON API](http://opendevicelab.com/api-documentation.php) from opendevicelab.com. 
+We’d like you to create a small iOS/Android app using the [simple JSON API](http://opendevicelab.com/api-documentation.php) from opendevicelab.com. 
 
 The first view should be a map with place markers for the ODLs. The map should have a location search, as well as using the device’s geolocation. 
 
@@ -16,7 +16,7 @@ Supply the source code and build the app into an apk.
 
 What we’re looking for:
 - A solid implementation of native UX
-- Well structured, commented code
+- Well structured code
 - Considerations for external factors (eg devices, network)
 
 Note: if you've solved some of these, don't publish them as a fork of this repo, or it will spoil the fun for everyone else :-). You can create a secret gist with a free Github account.
