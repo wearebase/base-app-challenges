@@ -25,4 +25,4 @@ Have fun!
 
 - The [@BaseEngineers](https://twitter.com/BaseEngineers) / engineers@wearebase.com
 
-PS. Get in touch if you think you did OK - we're [looking](http://wearebase.com/hiring) for app developers.
+PS. Get in touch if you think you did OK - we're [looking](https://wearebase.com/contact/) for app developers.
